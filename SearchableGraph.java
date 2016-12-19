@@ -2,10 +2,11 @@ import java.util.*;
 
 /*
 /* @aurthor Daniel Jang
-/* This class demonstrates the use of three path-searching algorithms: DFS, BFS, and Dijstra's algorithms
-/* to solve two problems.
+/* This class demonstrates the use of three path-searching algorithms: DFS, BFS, and Dijstra's algorithms to solve two problems.
+/* 
 /* 1) six degrees of Kevin Bacon problem https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon
 /* 2) finding the minimum cost path to fly from point A to point B.
+/*
 /* Depth first search (DFS) to see if a path is reachable.
 /* Breath first search (BFS) to construct the shortest path from one actor to the other.
 /* Dijstra's algorithm to find the mimnimum cost path of flights to get from point A to point B
